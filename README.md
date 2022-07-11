@@ -8,7 +8,7 @@ Coming soon...
 
 Clone the repo using Git:
 
-`git@github.com:DannyMonge/DotNET_Microservices-app-.git`
+`git@github.com:nelsongarx/DotNET_Microservices-app-.git`
 
 ## Boot up the whole system
 
